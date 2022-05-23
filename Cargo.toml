@@ -1,0 +1,12 @@
+[workspace]
+
+members = [
+    "http-reqwest",
+    "parse-json-w-serde",
+    "c-with-your-rust",
+    "rust-with-your-c",
+    "guessing-game",
+    "hello-world",
+    "ownership",
+    "main"
+]
